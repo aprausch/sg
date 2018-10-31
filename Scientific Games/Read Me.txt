@@ -16,7 +16,7 @@ STEP 0: Download the files in the repository.
 STEP 1: Open script.js in a text editor, and prepare to enter birth and death year data in the following format:
 
   Birth Array:	Birth Year of Person 1, 2, 3, ... . 
-	Death Array:	Death Year of Person 1, 2, 3, ... . 
+  Death Array:	Death Year of Person 1, 2, 3, ... . 
 
 Edit the first two arrays to accomodate your dataset. There is no limit on the number of entries. Here is an example:
 
