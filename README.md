@@ -32,10 +32,10 @@ In this example, the first person in the database was born in 1908 and died in 2
 
 There is no length limit on these arrays, although they must have the same length. 
 
-Save script.js once your data has been entered.  
+Save *script.js* once your data has been entered.  
 
 # STEP 3: Run Program
-Open rausch.html in a browser. The solution appears as a popup. (You may have to disable popups.)
+Open *rausch.html* in a browser. The solution appears as a popup. (You may have to disable popups.)
 
 Thanks for reading!
 
