@@ -9,7 +9,7 @@ The challenge is stated as such:
     Code:
     Solve using a language of your choice and dataset of your own creation.
 
-Run the program by following these steps.
+# How To
 
 *STEP 0:* Download the files in the repository. 
 
