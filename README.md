@@ -11,7 +11,7 @@ The challenge is stated as such:
 
 
 # STEP 1: Download
-Download the files in the repository. 
+Download the files in the repository: https://github.com/aprausch/sg/tree/master/Scientific%20Games
 
 # STEP 2: Enter
 Open script.js in a text editor, and prepare to enter birth and death year data in the following format:
