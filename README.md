@@ -26,8 +26,8 @@ There is no limit on the number of entries. Here is an example:
 
   // SAMPLE DATABASE
   
-  var birth = [1908, 1905, 1942, 1917, 1939, 1908, 1919, 1908, 1913, 1929, 1925, 1943, 1966];
-  var death = [2000, 1982, 1970, 1963, 1963, 1973, 1998, 1992, 1994, 1968, 1965, 1971, 1997];
+        var birth = [1908, 1905, 1942, 1917, 1939, 1908, 1919, 1908, 1913, 1929, 1925, 1943, 1966];
+        var death = [2000, 1982, 1970, 1963, 1963, 1973, 1998, 1992, 1994, 1968, 1965, 1971, 1997];
   
 Save script.js once your dataset has been entered.  
 
