@@ -30,10 +30,9 @@ Open *script.js* in a text editor, and prepare to enter birth and death year dat
 In this example, the first person in the database was born in 1908 and died in 2000.   
 The second person in the database was born in 1905 and died in 1982. 
 The last person in the database was born in 1966 and died in 1997. 
- 
-   There is no size length on the arrays, although they must have the same length. 
-   
-   Save script.js once your data has been entered.  
+There is no size length on the arrays, although they must have the same length. 
+
+Save script.js once your data has been entered.  
 
 # STEP 3: Run Program
 Open rausch.html in a browser. The solution appears as a popup. (You may have to disable popups.)
