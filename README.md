@@ -27,9 +27,12 @@ Open *script.js* in a text editor, and prepare to enter birth and death year dat
         var birth = [1908, 1905, 1942, 1917, 1939, 1908, 1919, 1908, 1913, 1929, 1925, 1943, 1966];
         var death = [2000, 1982, 1970, 1963, 1963, 1973, 1998, 1992, 1994, 1968, 1965, 1971, 1997];
         
-In this example, the first person in the database was born in 1908 and died in 2000.   
+In this example, the first person in the database was born in 1908 and died in 2000.  
+
 The second person in the database was born in 1905 and died in 1982. 
+
 The last person in the database was born in 1966 and died in 1997. 
+
 There is no size length on the arrays, although they must have the same length. 
 
 Save script.js once your data has been entered.  
