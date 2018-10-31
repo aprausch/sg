@@ -11,7 +11,7 @@ The challenge is stated as such:
 
 
 # STEP 1: Download
-Download rausch.html and script.js. 
+Download rausch.html and script.js. They must be contained in the same folder. 
 
 # STEP 2: Enter Data
 Open script.js in a text editor, and prepare to enter birth and death year data in the following format:
