@@ -10,8 +10,8 @@ The challenge is stated as such:
     Solve using a language of your choice and dataset of your own creation.
 
 
-# STEP 1: Download Program
-Download the files in the Scientific Games folder: https://github.com/aprausch/sg/tree/master/Scientific%20Games
+# STEP 1: Download
+Download rausch.html and script.js. 
 
 # STEP 2: Enter Data
 Open script.js in a text editor, and prepare to enter birth and death year data in the following format:
