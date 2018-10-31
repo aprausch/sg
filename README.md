@@ -1,6 +1,6 @@
 # Scientific Games
 
-This is a submission for a solution to Scientific Games' coding challenge. 
+This is a solution to Scientific Games' coding challenge. 
 The challenge is stated as such:
 
     Description:
