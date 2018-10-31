@@ -1,4 +1,4 @@
-# sg
+# Scientific Games
 
 This is a submission for a solution to Scientific Games' coding challenge; I have applied as a Mathematician. 
 The challenge is stated as such:
