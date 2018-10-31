@@ -10,10 +10,10 @@ The challenge is stated as such:
     Solve using a language of your choice and dataset of your own creation.
 
 
-#*STEP 0:* 
+# *STEP 0:* 
 Download the files in the repository. 
 
-#*STEP 1:* 
+# *STEP 1:* 
 Open script.js in a text editor, and prepare to enter birth and death year data in the following format:
 
     Birth Array:	Birth Year of Person 1, 2, 3, ... . 
@@ -29,7 +29,7 @@ Open script.js in a text editor, and prepare to enter birth and death year data 
   
    Save script.js once your dataset has been entered.  
 
-#*STEP 2:* 
+# *STEP 2:* 
 Open rausch.html in a browser. The solution appears as a popup. (You may have to disable popups.)
 
 Thanks for reading!
